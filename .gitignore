@@ -205,3 +205,19 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Ambientes virtuales
+venv/
+env/
+tc2004b_env/
+.venv
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints
+
+# Sistema
+.DS_Store
