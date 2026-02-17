@@ -49,10 +49,14 @@ cd TC2004B-TuNombre
 python -m venv tc2004b_env
 tc2004b_env\Scripts\Activate.ps1
 ```
+### Acción adicional por un problema personal de configuración:
+```bash
+conda deactivate
+```
 
 #### 3. Instalar dependencias
 ```bash
-pip install -r requirements.txt
+pip install -r requeriments.txt
 ```
 
 #### 4. Ejecutar Jupyter
